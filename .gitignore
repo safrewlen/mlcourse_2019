@@ -4,3 +4,6 @@ data/mlbootcamp5_train.csv
 .ipynb_checkpoints
 assignments_fall2019_solutions/.ipynb_checkpoints
 assignments_fall2019/.ipynb_checkpoints
+assignments_fall2019/catboost_info
+data/flight_delays_test.csv
+data/flight_delays_train.csv
